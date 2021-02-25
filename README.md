@@ -2,7 +2,7 @@
 
 Przykładowy program sprawdzający czy dwie podane liczby są ze sobą skojarzone.
 
-[Link]("http://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2016/formula_od_2015/MIN-R1_1P-162.pdf")
+[Link](http://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2016/formula_od_2015/MIN-R1_1P-162.pdf)
 do arkusza z zadaniem
 
 Możemy nazwać dwie różne liczby całkowite `a` i `b` większe od 1 skojarzonymi,
